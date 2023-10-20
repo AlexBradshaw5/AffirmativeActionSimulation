@@ -29,19 +29,6 @@ enrollment
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -106,14 +93,14 @@ plt.show()
 
 
     
-![png](output_5_0.png)
+![png](outputs/output_5_0.png)
     
 
 
 
 
 
-<div>
+<!-- <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -187,7 +174,7 @@ plt.show()
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
 
 
@@ -203,7 +190,7 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![png](outputs/output_6_0.png)
     
 
 
@@ -245,7 +232,7 @@ apps
 
 
 
-<div>
+<!-- <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -384,7 +371,7 @@ apps
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
 
 
@@ -403,7 +390,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![png](outputs/output_12_0.png)
     
 
 
@@ -426,7 +413,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![png](outputs/output_14_0.png)
     
 
 
@@ -505,7 +492,7 @@ df
 
 
 
-<div>
+<!-- <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -586,7 +573,7 @@ df
   </tbody>
 </table>
 <p>2535 rows × 2 columns</p>
-</div>
+</div> -->
 
 
 
@@ -625,7 +612,7 @@ merit_grouped
 
 
 
-<div>
+<!-- <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -701,7 +688,7 @@ merit_grouped
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
 
 
@@ -717,7 +704,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](outputs/output_25_0.png)
     
 
 
@@ -733,7 +720,7 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![png](outputs/output_26_0.png)
     
 
 
@@ -763,7 +750,7 @@ lotto
 
 
 
-<div>
+<!-- <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -868,7 +855,7 @@ lotto
   </tbody>
 </table>
 <p>650 rows × 4 columns</p>
-</div>
+</div> -->
 
 
 
@@ -882,7 +869,7 @@ lotto_grouped
 
 
 
-<div>
+<!-- <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -967,7 +954,7 @@ lotto_grouped
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
 
 
@@ -983,7 +970,7 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![png](outputs/output_30_0.png)
     
 
 
@@ -999,7 +986,7 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![png](outputs/output_31_0.png)
     
 
 
@@ -1059,7 +1046,7 @@ action
 
 
 
-<div>
+<!-- <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1152,7 +1139,7 @@ action
   </tbody>
 </table>
 <p>649 rows × 3 columns</p>
-</div>
+</div> -->
 
 
 
@@ -1165,7 +1152,7 @@ action_grouped
 
 
 
-<div>
+<!-- <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1250,7 +1237,7 @@ action_grouped
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
 
 
@@ -1268,7 +1255,7 @@ df_grouped
 
 
 
-<div>
+<!-- <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1353,7 +1340,7 @@ df_grouped
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
 
 
@@ -1377,7 +1364,7 @@ plt.show()
 
 
     
-![png](output_39_0.png)
+![png](outputs/output_39_0.png)
     
 
 
@@ -1401,7 +1388,7 @@ plt.show()
 
 
     
-![png](output_40_0.png)
+![png](outputs/output_40_0.png)
     
 
 
